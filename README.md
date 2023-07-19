@@ -13,3 +13,4 @@ Overall, I want this project to succeed, I only am making this because I want my
 - [checkbox tag w3school](https://www.w3schools.com/tags/att_input_type_checkbox.asp)
   - [checkbox w3docs](https://www.w3docs.com/snippets/html/how-to-create-a-checkbox-with-a-clickable-label.html)
 - [Images as checkboxes video](https://www.youtube.com/watch?v=-UO-uGFphYA)
+- [Button resource](https://www.geeksforgeeks.org/how-to-change-the-text-and-image-by-just-clicking-a-button-in-javascript/)
