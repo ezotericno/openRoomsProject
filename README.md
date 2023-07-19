@@ -9,4 +9,7 @@ Overall, I want this project to succeed, I only am making this because I want my
 
 ## Resources
 - [tr tag w3docs](https://www.w3docs.com/learn-html/html-tr-tag.html)
+- [option tag w3docs](https://www.w3docs.com/learn-html/html-option-tag.html)
+- [checkbox tag w3school](https://www.w3schools.com/tags/att_input_type_checkbox.asp)
+  - [checkbox w3docs](https://www.w3docs.com/snippets/html/how-to-create-a-checkbox-with-a-clickable-label.html)
 - 
