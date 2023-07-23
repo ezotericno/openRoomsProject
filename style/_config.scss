@@ -1,7 +1,7 @@
 @import 'variables';
 
 body {
-    background-color: $blue;
+    background-color: $dark-blue;
 }
 
 .datatable {
@@ -13,7 +13,7 @@ body {
 
 th, td {
     padding: 10px;
-    border: 3px solid $dark-blue;
+    border: 3px solid $blue;
     color: $dark-blue;
 }
 
