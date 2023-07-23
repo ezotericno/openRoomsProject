@@ -1,18 +1,19 @@
 @import 'variables';
 
 body {
-    background-color: $gray;
+    background-color: $blue;
 }
 
 .datatable {
     width: 95%;
     margin: 30px auto;
     border-collapse: collapse;
-    background-color: $gray-blue;
+    background-color: $white-ish;
 }
 
 th, td {
     padding: 10px;
-    border: 1px solid #666;
+    border: 3px solid $dark-blue;
+    color: $dark-blue;
 }
 
