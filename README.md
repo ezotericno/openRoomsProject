@@ -14,3 +14,5 @@ Overall, I want this project to succeed, I only am making this because I want my
   - [checkbox w3docs](https://www.w3docs.com/snippets/html/how-to-create-a-checkbox-with-a-clickable-label.html)
 - [Images as checkboxes video](https://www.youtube.com/watch?v=-UO-uGFphYA)
 - [Button resource](https://www.geeksforgeeks.org/how-to-change-the-text-and-image-by-just-clicking-a-button-in-javascript/)
+- [Clock](https://youtu.be/paiI1N96EpQ)
+- [Alt. Clock](https://www.youtube.com/watch?v=yvWzGD8v3Qc)
