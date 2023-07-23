@@ -1,9 +1,0 @@
-<td class="button">
-                <img height="41px" src="/images/closed.jpg" 
-    class="logo" alt="Banner" onclick="ratesD(this)" />
-            </td>
-
-            .button {
-                padding: 0%;
-                width: 90px;
-            }
