@@ -16,6 +16,11 @@ th, td {
   color: #071937;
 }
 
+img {
+  margin: 0;
+  padding: 0;
+}
+
 * {
   padding: 0;
   margin: 0;
