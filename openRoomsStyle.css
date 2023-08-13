@@ -87,3 +87,7 @@ td{
 img{
     height: 26.42px;
 }
+
+.toHide{
+    visibility: hidden;
+}
