@@ -1,6 +1,6 @@
 # openRoomsProject
 This project is to help me better understand HTML, CSS(Sass), and JS code. The point of this program is a tracker, the main points and functions I will list below in bullets to help outline the project
-  - Use the mouse to click buttons to know what rooms and open or closed
+  - Use the mouse to click buttons to know what rides and open or closed
   - Have a clock with DTG format
 
 Overall, I want this project to succeed, I only am making this because I want my first project to be something practical and unique. Doing challenges from Frontend Mentor is great, but making something from the ground up that can also be used for a implemented in a practical sense is even better. 
