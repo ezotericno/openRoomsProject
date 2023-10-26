@@ -1,6 +1,6 @@
 function ratesD(image) {
     if (image.src == "/docs/images/closed.jpg") {
-      image.src = "/docs/images/closed.jpg";
+      image.src = "/docs/images/open.jpg";
     } else {
       image.src = "/docs/images/closed.jpg"
     }
